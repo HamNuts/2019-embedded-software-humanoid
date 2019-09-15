@@ -1,0 +1,29 @@
+<변경사항>
+ShoulderStretching2_Complete -> ShoulderStretching_Complete
+ShoulderStretching2_Warning -> ShoulderStretching_Warning
+ShoulderStretching2_Complete  새로운 이미지 추가 (94번 슬라이드)
+ShoulderStretching2_Warning  새로운 이미지 추가 (95번 슬라이드)
+
+Shoulder1_Waiting 새로운 이미지 추가 (96번 슬라이드)
+Shoulder2_Waiting 새로운 이미지 추가 (97 or 98번 슬라이드)
+Shoudler3_Waiting 새로운 이미지 추가 (99번 슬라이드)
+
+Waist1_Waiting 새로운 이미지 추가 (100or101번 슬라이드)
+Waist2_Waiting 새로운 이미지 추가 (103번 슬라이드)
+Waist3_Waiting 새로운 이미지 추가 (104번 슬라이드)
+
+Leg1_Waiting 새로운 이미지 추가 (105번 슬라이드)
+Leg2_Waiting 새로운 이미지 추가 (106번 슬라이드)
+Leg3_Waiting 새로운 이미지 추가 (108번 슬라이드)
+
+Shoulder_END 새로운 이미지 추가 (84번 슬라이드)
+Waist_END 새로운 이미지 추가 (85번 슬라이드)
+Leg_END 새로운 이미지 추가 (86번 슬라이드)
+
+Waiting 이미지를 구별해주기 위한 변수 추가 : WaitingNumber
+ (ServerC에 삽입)
+
+Waiting 이미지 띄우기 함수 추가 : Waiting();
+
+END 이미지 띄우기 함수 추가 : Endinhg();
+
