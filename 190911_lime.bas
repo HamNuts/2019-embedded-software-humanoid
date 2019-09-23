@@ -4178,7 +4178,7 @@ KEY8:
     '***************
 KEY9:
     ETX  4800,9
-    GOTO 림보걸음
+    GOTO 브릿지
 
 
     GOTO RX_EXIT
